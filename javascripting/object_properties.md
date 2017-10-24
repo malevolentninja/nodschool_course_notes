@@ -17,10 +17,11 @@ You can access and manipulate object properties –– the keys and values
   };
   ```
   
-  console.log() to print types of food
-  
+  console.log() to print types of food:
+  ```sh
   console.log(food['types']);
   
   // or alternatively dot notation:
   
   console.log(food.types);
+```
