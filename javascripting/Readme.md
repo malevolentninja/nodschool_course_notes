@@ -1,22 +1,53 @@
 # javascripting
 
+This module I have included both the walkthrough and a seperate js file of my end result.  
+
 ## 1. Introduction
+
+- [Introduction md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/Introduction.md) 
+- [Introduction result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/introduction.js)
+
 
 ## 2. Variables
 
+- [Variables md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/variables.md) 
+- [Variables result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/variables.js)
+
 ## 3. Strings
+
+- [Strings md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/strings.md) 
+- [Strings result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/strings.js)
+
 
 ## 4. String Length
 
+- [String Length md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/string-length.md) 
+- [String Length result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/string-length.js)
+
 ## 5. Revising Strings
+
+- [Revising Strings md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/revising-strings.md) 
+- [Revising Strings result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/revising-strings.js)
 
 ## 6. Numbers
 
+- [Numbers md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/numbers.md) 
+- [Numbers result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/numbers.js)
+
 ## 7. Rounding Numbers
+
+- [Rounding Numbers md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/rounding-numbers.md) 
+- [Rounding Numbers result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/rounding-numbers.js)
 
 ## 8. Number to string
 
+- [Number to String md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/number-to-string.md) 
+- [Number to String result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/number-to-string.js)
+
 ## 9. If Statement
+
+- [if Statement md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/if_statement.md) 
+- [if Statement result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/if-statement.js)
 
 ## 10. For loop
 
@@ -35,5 +66,7 @@
 ## 17. Functions
 
 ## 18. Function Arguments
+
+## 19. Scope
 
 
