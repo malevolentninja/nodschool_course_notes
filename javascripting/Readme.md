@@ -1,6 +1,6 @@
 # javascripting
 
-This module I have included both the walkthrough and a seperate js file of my end result.  
+For this module I have included both the walkthrough and a seperate js file of my end result.  
 
 ## 1. Introduction
 
@@ -51,13 +51,28 @@ This module I have included both the walkthrough and a seperate js file of my en
 
 ## 10. For loop
 
+- [for loop md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/for_loop.md) 
+- [for loop result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/for-loop.js)
+
 ## 11. Arrays
+
+- [arrays md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/arrays.md) 
+- [arrays result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/arrays.js)
+
 
 ## 12. Array Filtering
 
+- [arrays filtering md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/arrays_filtering.md) 
+- [arrays filtering result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/arrays-filtering.js)
+
 ## 13. Accessing Array Values
 
+- [accessing array values md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/accessing_array_values.md) 
+- [accessing array values result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/accessing-array-values.js)
+
 ## 14. Looping through arrays
+- [Looping through arrays md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/looping_through_arrays.md) 
+- [Looping through arrays result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/looping-through-arrays.js)
 
 ## 15. Objects
 
