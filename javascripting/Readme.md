@@ -86,8 +86,19 @@ For this module I have included both the walkthrough and a seperate js file of m
 
 ## 17. Functions
 
+- [Functions md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/functions.md) 
+- [Functions result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/functions.js)
+
+
 ## 18. Function Arguments
 
+- [Function Arguments md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/function_arguments.md) 
+- [Function Arguments result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/function-arguments.js)
+
 ## 19. Scope
+
+- [Scope md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/scope.md) 
+- [Scope result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/scope.js)
+
 
 
