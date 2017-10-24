@@ -76,7 +76,13 @@ For this module I have included both the walkthrough and a seperate js file of m
 
 ## 15. Objects
 
+- [objects md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/objects.md) 
+- [objects result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/objects.js)
+
 ## 16. Object Properties
+
+- [Object Properties values md version](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/object_properties.md) 
+- [Object Properties result.js](https://github.com/malevolentninja/nodschool_course_notes/blob/master/javascripting/object-properties.js)
 
 ## 17. Functions
 
