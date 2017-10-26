@@ -2,15 +2,15 @@
 
 ## Variables
 
-## Nesting
+## Nesting
  
-## Imports
+## Imports
 
 ## Mixins
 
 ## Mixin Content
 
-## Extend/Inheritance
+## Extend/Inheritance
 
 ## Operators 
 
@@ -18,9 +18,9 @@
 
 ## parent selector
 
-## Interpolation
+## Interpolation
 
-## Each iterator 
+## Each iterator 
 
 ## For Loop 
 
